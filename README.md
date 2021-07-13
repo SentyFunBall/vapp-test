@@ -1,2 +1,3 @@
 # vapp-test
-dont mind me, just a small test
+
+if you find this, ping me on discord or tweet at me with a screenshot of this file.
